@@ -35,8 +35,8 @@ End the program.
 ## PROGRAM:
 ```
 #To write a program for copying the contents from one file to another file.
-#Developed by: Yogeshvar.M
-#RegisterNumber: 22003358
+#Developed by:s.thirisha
+#RegisterNumber: 22001920
 
 with open("MyFile.txt","r") as fp:
     x = fp.read()
