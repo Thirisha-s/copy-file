@@ -42,7 +42,7 @@ with open("MyFile2.txt","w") as fp1:
 ```
 
 ### OUTPUT:
-![Screenshot_20230125_220549](https://user-images.githubusercontent.com/120380280/214622817-9014eba6-cf4d-4f9b-aea3-1d12f1255a6c.png)
+![Screenshot_20230126_113122](https://user-images.githubusercontent.com/120380280/214768513-2b8398a6-a0f1-4451-be3a-fa67ad39ae19.png)
 ![Screenshot_20230125_220609](https://user-images.githubusercontent.com/120380280/214622866-44145f84-2789-49c9-bbe9-a694e5db5b04.png)
 
 ## RESULT:
